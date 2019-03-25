@@ -1,0 +1,35 @@
+{
+  "name": "elections2019",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native-paper": "2.2.8",
+    "react-native-vector-icons": "6.4.2",
+    "react-navigation": "3.5.1",
+    "react-navigation-material-bottom-tabs": "1.0.0",
+    "sort-json-array": "0.1.7"
+  },
+  "checkSubmission": {
+    "ex": 1,
+    "students": [
+        { "id": "311251425", 
+          "fullName": "Sahar Gezer", 
+          "email": "sahar.gezer@outlook.com"},
+        { "id": "203569413", 
+          "fullName": "Ori Kfir", 
+          "email": "orikfir1@gmail.com"}
+    ],
+    "os": "Windows",  
+    "device": "Android", 
+    "deliveryDate": "03/25/2019", 
+    "delay": false,
+    "delayReason": "none",
+    "comments": "Enjoy"
+  }
+}
